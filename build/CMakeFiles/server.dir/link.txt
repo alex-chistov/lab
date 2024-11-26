@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file,CMakeFiles/server.dir/link.d "CMakeFiles/server.dir/lab_lin-master/server.c.o" "CMakeFiles/server.dir/lab_lin-master/erproc.c.o" -o server

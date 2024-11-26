@@ -1,0 +1,3 @@
+C:/Users/aleks/Downloads/lab_lin/cmake-build-debug/CMakeFiles/lab_lin.dir
+C:/Users/aleks/Downloads/lab_lin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleks/Downloads/lab_lin/cmake-build-debug/CMakeFiles/rebuild_cache.dir

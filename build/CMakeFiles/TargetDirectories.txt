@@ -1,4 +1,0 @@
-/mnt/c/Users/aleks/Downloads/lab_lin/build/CMakeFiles/server.dir
-/mnt/c/Users/aleks/Downloads/lab_lin/build/CMakeFiles/client.dir
-/mnt/c/Users/aleks/Downloads/lab_lin/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/aleks/Downloads/lab_lin/build/CMakeFiles/rebuild_cache.dir

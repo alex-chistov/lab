@@ -3,18 +3,18 @@ project(lab_lin C)
 
 set(CMAKE_C_STANDARD 11)
 
-include_directories(lab_lin-master)
+include_directories(src)
 
 add_executable(server
-        lab_lin-master/server.c
-        lab_lin-master/erproc.c
-        lab_lin-master/erproc.h
+        src/server.c
+        src/erproc.c
+        src/erproc.h
 )
 
 # Создаём клиент
 add_executable(client
-        lab_lin-master/client.c
-        lab_lin-master/erproc.c
-        lab_lin-master/erproc.h
+        src/client.c
+        src/erproc.c
+        src/erproc.h
 )
 
